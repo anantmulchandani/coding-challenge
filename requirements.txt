@@ -1,0 +1,9 @@
+SQLAlchemy
+pandas
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-Swagger-UI
+psycopg2-binary
+PyYAML
+numpy
